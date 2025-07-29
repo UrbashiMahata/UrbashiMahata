@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Urbashi Mahata 👋
 
-<!--
-**UrbashiMahata/UrbashiMahata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer and learner with strong interests in **Machine Learning**, **Web Development**, and **Systems Programming**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- 💻 **Languages**:  
+  `Python` | `C` | `C++` | `JavaScript` | `HTML` | `CSS`
+
+- 🤖 **Machine Learning**:  
+  - Model building & training
+  - Data preprocessing & visualization
+  - Scikit-learn, TensorFlow, PyTorch
+
+- 🌐 **Web Technologies**:  
+  - Frontend development with HTML, CSS, JS
+  - Building responsive web interfaces
+
+---
+
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](www.linkedin.com/in/urbashi-mahata-997336325)
+- 📧 urbashimahata27@gmail.com
+
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
